@@ -1,0 +1,10 @@
+NET "VGA_B[1]" LOC = P84;
+NET "VGA_B[0]" LOC = P83;
+NET "VGA_G[0]" LOC = P81;
+NET "VGA_G[1]" LOC = P82;
+NET "VGA_R[0]" LOC = P79;
+NET "VGA_R[1]" LOC = P80;
+NET "VGA_HSync" LOC = P87;
+NET "VGA_VSync" LOC = P85;
+NET "clk" LOC = P50;
+

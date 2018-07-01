@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.v
+!*.ucf
+!*.xise
+!*.xco
+!ipcore_dirs/
+!ipcore_dirs/*.xco
+!README.md
